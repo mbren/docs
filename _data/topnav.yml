@@ -3,8 +3,6 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/tomjohnson1492/documentation-theme-jekyll
     - title: News
       url: /news
 
