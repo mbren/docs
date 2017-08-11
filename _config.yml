@@ -3,10 +3,10 @@ repository: mbren/docs
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Documentation
+topnav_title: Miscellanea
 # this appears on the top navigation bar next to the home button
 
-site_title: Documentation portal
+site_title: A collection of notes
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: mbren
@@ -98,11 +98,11 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
-- home_sidebar
-- mydoc_sidebar
+# - home_sidebar
+# - mydoc_sidebar
 - product1_sidebar
-- product2_sidebar
-- other
+# - product2_sidebar
+# - other
 
 description: "Extending a documentation theme based on Jekyll for technical writers documenting software."
 # the description is used in the feed.xml file
